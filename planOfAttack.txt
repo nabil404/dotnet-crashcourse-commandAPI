@@ -1,0 +1,8 @@
+Tutorial url - https://www.youtube.com/watch?v=fmvcAzHpsk8
+
+Create a Model for the Data
+Create an Interface for the repo
+Create a DB Context
+Create a Repo
+Create DTO
+Implement controller
